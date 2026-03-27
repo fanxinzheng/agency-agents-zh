@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=social)](https://github.com/jnMetaCode/agency-agents-zh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![QQ群](https://img.shields.io/badge/QQ群-833585047-blue?logo=tencentqq)](https://qm.qq.com/q/x8kyqzlfDc)
+[![QQ群](https://img.shields.io/badge/QQ群-加入交流-blue?logo=tencentqq)](https://qm.qq.com/q/EeNQA9xCxy)
 
 ### 📊 项目规模
 
@@ -799,7 +799,7 @@ DEERFLOW_SKILLS_DIR=/path/to/deerflow/skills/custom ./scripts/install.sh --tool 
 
 | 群名 | 群号 | 加入方式 |
 |------|------|---------|
-| AI Agent 中文实践群 | **833585047** | [点击加入](https://qm.qq.com/q/x8kyqzlfDc) |
+| AI 编程 & Agent 中文实践群 | **加入交流** | [点击加入](https://qm.qq.com/q/EeNQA9xCxy) |
 
 ---
 
@@ -831,7 +831,7 @@ MIT License — 自由使用，商业或个人均可。
 
 **187 个 AI 专家角色，14 种工具支持，即装即用**
 
-[⭐ Star 本项目](https://github.com/jnMetaCode/agency-agents-zh) · [提交 Issue](https://github.com/jnMetaCode/agency-agents-zh/issues) · [贡献代码](https://github.com/jnMetaCode/agency-agents-zh/pulls) · [QQ 交流群](https://qm.qq.com/q/x8kyqzlfDc)
+[⭐ Star 本项目](https://github.com/jnMetaCode/agency-agents-zh) · [提交 Issue](https://github.com/jnMetaCode/agency-agents-zh/issues) · [贡献代码](https://github.com/jnMetaCode/agency-agents-zh/pulls) · [QQ 交流群](https://qm.qq.com/q/EeNQA9xCxy)
 
 基于 [agency-agents](https://github.com/msitarzewski/agency-agents) 翻译并本土化
 
